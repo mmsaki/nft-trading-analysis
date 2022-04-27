@@ -8,8 +8,9 @@ Summary of interests and intent:
 * The kinds of questions you'll be asking of that data.
     * How is the market growth
     * What is the customer data looking like
-    * Popular Chains - Solana NFTs
+    * Popular Chains - Solana NFTs https://solanart.io
     * Who are buying the most?
+    https://docs.dune.com
 
 * Possible source for such data.
     * Opeansea, Solana NFTs
