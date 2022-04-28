@@ -52,18 +52,18 @@
 
 ## Contributors 
 
-1. @mmsaki
-PROJECT ORGANISATION
+1. [@mmsaki](https://github.com/mmsaki)
+- PROJECT ORGANISATION
 - Documents Organisation
 - Presentation, ie README.md
 
-2. @dockingbay24
-DATA COLLECTION
+2. [@dockingbay24](https://github.com/dockingbay24)
+- DATA COLLECTION
 - APIs/DATA collection
 - help with presentation and as needed
 
 
-3. @angel-estrada7
-ANALYSIS and Visualization
+3. [@angel-estrada7](https://github.com/angel-estrada7)
+- ANALYSIS and Visualization
 - Visualization & Analysing data
-presentation guidelines.
+- Presentation guidelines
