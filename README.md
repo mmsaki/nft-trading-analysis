@@ -15,7 +15,7 @@
 * Our project uncovers patterns in NFT trading sales.
 * We'll examine relationships between types of:
     * art and customers 
-    * purchase prices and timeatamps
+    * purchase prices and timestamps
     * trends in purchases over the course of the year
     * Other related questions as the data admits
 
