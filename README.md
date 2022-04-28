@@ -30,7 +30,7 @@
     * Collections
     * Account Balances
     * Token IDs
-    * Contract addresses
+    * Contract deploments
     * Global view of NFT Marketplace
     * Protocols ie uniswap
     * All other Chains ie Ethereum, Polygon, BSC, Fantom, Arbitrum, Axie, Avalance
