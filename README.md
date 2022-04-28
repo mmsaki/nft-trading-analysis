@@ -33,7 +33,7 @@
 * The kinds of questions we'll be asking of that data.
     * How is the market growing?
     * What does the customer data looking like?
-    * Popular Chains - Ethereum & Polygon & Solana NFTs https://solanart.io
+    * Popular Chains - Ethereum & Polygon & Solana NFTs
     * Who are buying the most nfts? Account Addresses?
     * Contract addresses
 
