@@ -9,7 +9,7 @@
 5. [Results](#results)
 6. [Contributors](#contributors)
 
-## Summary of interests and intent:
+## Summary of interests and intent
 * Our project is to uncover patterns in NFT project trading sales. We'll examine relationships between types of art and customers; purchase prices and times of day; trends in purchases over the course of the year; and related questions, as the data admits.
 
 ## Analysis
