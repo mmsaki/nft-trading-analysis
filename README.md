@@ -22,6 +22,7 @@
 ## Analysis
 
 * The kind of data we like to work with and the field we're interested in (e.g., trading and quantitative analysis).
+    * Market Caps
     * Transaction data 
     * NFT art trading sales
     * Gas Prices prices
