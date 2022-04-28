@@ -24,7 +24,7 @@
 * The kind of data we like to work with and the field we're interested in (e.g., trading and quantitative analysis).
     * Transaction data 
     * NFT art trading sales
-    * Historical token prices
+    * Gas Prices prices
     * Price volatility
     * Collections
     * Account Balances
