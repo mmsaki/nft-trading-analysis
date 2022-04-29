@@ -1,7 +1,7 @@
- <img src="https://c.tenor.com/lXcUnwD_JwgAAAAC/nft-nft-gif.gif" alt="ether" width="100%"/>
+ <img src="https://c.tenor.com/-DHF1x9fLY4AAAAC/ethereum-erc20.gif" alt="ether" width="100%"/>
 
 
-## NFT Sales Comparisons
+## Sales Comparisons
 
 Welcome to the `development` branch, we will analyze all the collections and compare if they outperfromed each other.
 
