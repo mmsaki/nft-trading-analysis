@@ -6,9 +6,9 @@
 
 ## Comparisons
 
-In this `development` branch, we will analyze all the collections to compare if they outperfromed each other.
+Welcome to the `development` branch, we will analyze all the collections and compare if they outperfromed each other.
 
-## Three Collections Comparison
+## The Three Collections 
 * [meek_analysis](./meek_analysis.ipynb)
 * [chris_analysis](./chris_analysis.ipynb)
 * [angel_analysis](./angel_analysis.ipynb)
@@ -16,4 +16,7 @@ In this `development` branch, we will analyze all the collections to compare if 
 ## Questions?
 
 * The kinds of questions we'll be asking of that data.
-    * How did the three collections compare in total sales?
+    * How did the three collections compare in total sales? 
+        * Plot
+    * What are the three collections floor prices compared to each other? Plot?
+        * Plot
