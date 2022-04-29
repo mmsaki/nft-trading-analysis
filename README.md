@@ -1,14 +1,14 @@
  <img src="https://c.tenor.com/-DHF1x9fLY4AAAAC/ethereum-erc20.gif" alt="ether" width="100%"/>
 
 
-## Development
+## Development Branch
 
-Welcome to the `development` branch, we will analyze all the collections and compare if they outperfromed each other here.
+Welcome to the `development` branch, we will process all our NFT collections and compare if they outperfromed each other.
 
 ## Our Collections 
-* [meek_analysis](./meek_analysis.ipynb)
-* [chris_analysis](./chris_analysis.ipynb)
-* [angel_analysis](./angel_analysis.ipynb)
+* Collection 1
+* Collection 2
+* Collection 3
 
 ## Analysis
 
