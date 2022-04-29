@@ -11,4 +11,4 @@ Please refer to the project's style and contribution guidelines for submitting p
  4. **Push** your work back up to your fork
  5. Submit a **Pull Request (PR)** to the `development` branch so that we can review your changes
 
-NOTE: Be sure to merge the latest from the `development` branch before making a PR!
+NOTE: Be sure to merge the latest from the `development` branch before making a Pull Request!
