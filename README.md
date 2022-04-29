@@ -4,12 +4,11 @@
  
 ## Table of Contents
 
-1. [Summary of interests and intent](#summary-of-interests-and-intent)
+1. [Azuki collection](#azuki-collection)
 2. [Analysis](#analysis)
 3. [Questions?](#questions)
 4. [Sources of Data API](#sources-of-data-api)
 5. [Results](#results)
-6. [Contributors](#contributors)
 
 ## Azuki collection
 * This analysis uncovers patterns in Azuki trading sales.
