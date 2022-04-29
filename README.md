@@ -4,24 +4,17 @@
  <img src="https://c.tenor.com/lXcUnwD_JwgAAAAC/nft-nft-gif.gif" alt="ether" width="100%"/>
 
 
-## Table of Contents
+## Comparisons
 
-1. [Three Collections Comparison](#three-collections-comparison)
-2. [Analysis](#analysis)
-3. [Questions?](#questions)
+In this branch, we will analyze all the collections to compare if they outperfromed each other.
 
 ## Three Collections Comparison
-* Comparing sales patterns in NFT trading for three collections.
-
-
-## Analysis
-
-* The kind of data we like to work with and the field we're interested in (e.g., trading and quantitative analysis).
-    * Market Caps
-    * Transaction data 
+* meek_analysis
+* chris_analysis
+* angel_analysis
 
 ## Questions?
 
 * The kinds of questions we'll be asking of that data.
     * How is the market growing?
-    * What does the customer data look like?
+    * How did the three collections compare?
