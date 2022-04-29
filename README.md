@@ -4,7 +4,7 @@
  
 ## Goals
 
-* In this `meeks-branch` branch I will be analysing Azuki Collection. 
+* Hi, Welcome to `meeks-branch` branch, I will be analysing Azuki Collection. 
 
 ## Azuki collection
 * This analysis uncovers patterns in Azuki trading sales.
