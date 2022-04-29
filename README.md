@@ -3,7 +3,7 @@
 
 ## Development
 
-Welcome to the `development` branch, we will analyze all the collections and compare if they outperfromed each other.
+Welcome to the `development` branch, we will analyze all the collections and compare if they outperfromed each other here.
 
 ## Our Collections 
 * [meek_analysis](./meek_analysis.ipynb)
