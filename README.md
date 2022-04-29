@@ -3,10 +3,6 @@
 
 Welcome to the `development` branch, we will process all our NFT collections and compare if they outperfromed each other.
 
- <img src="https://c.tenor.com/-DHF1x9fLY4AAAAC/ethereum-erc20.gif" alt="ether" width="25%"/>
-
-
-
 ## Our Collections 
 * Collection 1
 * Collection 2
