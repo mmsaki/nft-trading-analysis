@@ -6,7 +6,7 @@
 
 ## Comparisons
 
-In this branch, we will analyze all the collections to compare if they outperfromed each other.
+In this `development` branch, we will analyze all the collections to compare if they outperfromed each other.
 
 ## Three Collections Comparison
 * meek_analysis
