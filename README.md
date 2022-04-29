@@ -9,12 +9,11 @@
 In this `development` branch, we will analyze all the collections to compare if they outperfromed each other.
 
 ## Three Collections Comparison
-* meek_analysis
-* chris_analysis
-* angel_analysis
+* [meek_analysis](./meek_analysis.ipynb)
+* [chris_analysis](./chris_analysis.ipynb)
+* [angel_analysis](./angel_analysis.ipynb)
 
 ## Questions?
 
 * The kinds of questions we'll be asking of that data.
-    * How is the market growing?
-    * How did the three collections compare?
+    * How did the three collections compare in total sales?
