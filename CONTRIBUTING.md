@@ -7,7 +7,7 @@ Please refer to the project's style and contribution guidelines for submitting p
 
  1. **Fork** the repo on GitHub
  2. **Clone** the project to your own machine
- 3. **Commit** changes to your own branch
+ 3. **Commit** changes to your own branch `chris-branch` or `angel-branch`. Create one if you haven't
  4. **Push** your work back up to your fork
  5. Submit a **Pull Request (PR)** to the `development` branch so that we can review your changes
 
