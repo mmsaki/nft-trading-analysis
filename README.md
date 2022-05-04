@@ -4,14 +4,14 @@
 Welcome to the `development` branch, we will process all our NFT collections and compare if they outperfromed each other.
 
 ## Our Collections 
-* Collection 1
-* Collection 2
-* Collection 3
+* Azuki
+* Bore Ape Yatch Club (BAYC)
+* Cryptopunks
 
 ## Analysis
 
 * The kinds of questions we'll be asking of that data.
-    * How did the three collections compare in total sales? 
-        * Plot
-    * What are the three collections floor prices compared to each other?
-        * Plot
+    * Should you invest in Azuki, BAYC or Crypto Punks? 
+        * Floor prices
+    * How can you tell which collection is performing well?
+        * Checking volume sales
