@@ -8,14 +8,8 @@
 
 ## Azuki collection
 * This analysis uncovers patterns in Azuki trading sales.
-* I'll examine relationships between types of:
+
+## Analysis
+* I'll examine relationships between types data:
     * floor price 
-    * Historical data & Total Sales
-
-## Analysis?
-
-* The kinds of questions we'll be asking of Azuki's data.
-    * What is Azuki total sales?
-
-
-
+    * Historical volume data
