@@ -40,10 +40,32 @@ https://etherscan.io/token/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb#tokenAnaly
 
 ---
 ## attributes
-https://www.larvalabs.com/cryptopunks/attributes
++ https://www.larvalabs.com/cryptopunks/attributes
 
 ## Links
 + https://github.com/k-akarsh/cryptopunks-api  
 + https://etherscan.io/token/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb
 + Visualization - https://pandas.pydata.org/docs/user_guide/visualization.html
 + Pandas Columns - https://stackoverflow.com/questions/44009896/python-pandas-copy-columns
+
+GitHub Location
++ https://github.com/mmsaki/Fintech-Group-Project
++ https://github.com/chris-groshong/Fintech-Group-Project/tree/chris-branch
++ https://github.com/Luminous171/Project_1
+
+
+API Locations
++ https://www.covalenthq.com/docs/api/#/0/0/USD/1
++ https://support.opensea.io/hc/en-us/articles/360061676254-How-do-I-create-an-OpenSea-account-
++ https://admin.moralis.io/servers
++ https://docs.alchemy.com/alchemy/enhanced-apis/nft-api/getnfts#response-by-default
+
+Other Interesting links
++ https://www.kaggle.com/
++ https://www.census.gov/library/visualizations.html
++ https://www.upgrad.com/blog/blockchain-projects-on-github/
++ https://catalog.data.gov/dataset
++ https://mn.gov/boards/medical-practice/
++ https://www.npdb.hrsa.gov/analysistool/
++ https://projects.trilogyed.com/fintech/
++ https://app.quickdatabasediagrams.com/#/
