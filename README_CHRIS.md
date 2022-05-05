@@ -43,7 +43,7 @@ https://etherscan.io/token/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb#tokenAnaly
 https://www.larvalabs.com/cryptopunks/attributes
 
 ## Links
-https://github.com/k-akarsh/cryptopunks-api  
-
-https://etherscan.io/token/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb
-
++ https://github.com/k-akarsh/cryptopunks-api  
++ https://etherscan.io/token/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb
++ Visualization - https://pandas.pydata.org/docs/user_guide/visualization.html
++ Pandas Columns - https://stackoverflow.com/questions/44009896/python-pandas-copy-columns
