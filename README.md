@@ -1,7 +1,7 @@
 # Fintech-Group-Project-01
 
-<!-- <img src="https://media2.giphy.com/media/JTV3ciE3YTDycJXhmq/giphy.gif?cid=ecf05e47e01en4yfdxy8feugp8cfur80fovlpp01u38dssnk&rid=giphy.gif&ct=g" alt="ether" width="100%"/>
- -->
+ <img src="https://media2.giphy.com/media/JTV3ciE3YTDycJXhmq/giphy.gif?cid=ecf05e47e01en4yfdxy8feugp8cfur80fovlpp01u38dssnk&rid=giphy.gif&ct=g" alt="ether" width="100%"/>
+ 
 ## Table of Contents
 
 1. [Summary of interests and intent](#summary-of-interests-and-intent)
