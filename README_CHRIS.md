@@ -19,14 +19,14 @@ The NFT in question is a CryptoPunk, part a set of 10,000 NFTs that are some of 
 Owners:
 https://www.larvalabs.com/cryptopunks/leaderboard
 
-* 0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB  test acct
+* 2  0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB  cryptopunks
 
 <b>Top 5 Accounts </B>
-* 0xb7f7f6c52f2e2fdb1963eab30438024864c313f6
-* 0xa858ddc0445d8131dac4d1de01f834ffcba52ef1
-* 0xa25803ab86a327786bb59395fc0164d826b98298
-* 0xb88f61e6fbda83fbfffabe364112137480398018
-* 0x577ebc5de943e35cdf9ecb5bbe1f7d7cb6c7c647
+* 1  0xb7f7f6c52f2e2fdb1963eab30438024864c313f6
+* x  0xa858ddc0445d8131dac4d1de01f834ffcba52ef1   ??  new
+* x  0xa25803ab86a327786bb59395fc0164d826b98298   ??  down
+* x  0xb88f61e6fbda83fbfffabe364112137480398018   ??  new
+* x  0x577ebc5de943e35cdf9ecb5bbe1f7d7cb6c7c647   ??  down
 * https://www.larvalabs.com/cryptopunks/accountinfo?account=0xa858ddc0445d8131dac4d1de01f834ffcba52ef1
 
 <b> Top 5 Sales </b>
