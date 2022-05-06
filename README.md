@@ -73,6 +73,7 @@
 
 - [x] Part Two: Cryptopunks @dockingbay24
 
+    ![](./images/wraped%20punks.png)
     ![Cris Punks](./images/cryptopunks_bokeh_plot.png)
     ![Chris Combined plot](./images/punks_combined_wrapped_analysis.png)
     ![Chris Cryptopunks Sales Ether](./images/cryptopunks_sales_by_ether.png)
