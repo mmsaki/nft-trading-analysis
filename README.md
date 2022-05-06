@@ -54,7 +54,6 @@
     * Gas Prices prices
     * Price volatility
     * Collections
-    * Account Balances
     * Token IDs
     * Contract deploments
     * Global view of NFT Marketplace
