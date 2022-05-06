@@ -46,8 +46,17 @@
 
 * What kind of data we like to work with and the field we're interested in 
 
+ <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh3.googleusercontent.com%2FOr5DrlLFz9XuY-qAbl-YrkFd0BADhLjwbmWoRDil17X-UAxmSwngrzXiFuJcVb42SDp5eH3dvnflOdsea98jGy1X24dfFgERgcQV&f=1&nofb=1" alt="Beeple Art" width="100%"/>
+
+
+- [x] Part One: Bored Ape Yatch Club @angel-estrada7
+
+    ![Daily Volume Bored Apes](./exports/BAYC_daily_volume.png)
+    ![Ape Sales](./exports/BAYC_daily_sales.png)
+
     ![](./images/azuki_girl44.png)
-- [x] Part One: Azuki
+
+- [x] Part Two : Azuki @mmsaki
 
     ![Daily volume Analysis](./exports/png/nft_analysis_pg2.png)
 
@@ -55,25 +64,19 @@
     ![Azuki Sales](./exports/azuki_daily_sales.png)
 
     ![ Punks](./images/punks_pr0.png)
-- [x] Part Two: Cryptopunks 
-
-    ![Cris Punks](./images/cryptopunks_bokeh_plot.png)
-    ![Chris Combined plot](./images/punks_combined_wrapped_analysis.png)
-    ![Chris Cryptopunks Sales Ether](./images/cryptopunks_sales_by_ether.png)
-
- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh3.googleusercontent.com%2FOr5DrlLFz9XuY-qAbl-YrkFd0BADhLjwbmWoRDil17X-UAxmSwngrzXiFuJcVb42SDp5eH3dvnflOdsea98jGy1X24dfFgERgcQV&f=1&nofb=1" alt="Beeple Art" width="100%"/>
-
-
-- [x] Part Three: Bored Ape Yatch Club
-
-    ![Daily Volume Bored Apes](./exports/BAYC_daily_volume.png)
-    ![Ape Sales](./exports/BAYC_daily_sales.png)
 
     ![Historical sales Analysis](./exports/png/nft_analysis_pg6.png)
 
     ![Fees Comparison](./exports/fees_paid_comparison.png)
 
     ![Comparing Collections performance](./exports/Volume_sales_recent_1000.png)
+
+- [x] Part Two: Cryptopunks @dockingbay24
+
+    ![Cris Punks](./images/cryptopunks_bokeh_plot.png)
+    ![Chris Combined plot](./images/punks_combined_wrapped_analysis.png)
+    ![Chris Cryptopunks Sales Ether](./images/cryptopunks_sales_by_ether.png)
+
 
 
 ## 5. Postmoterm
