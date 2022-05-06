@@ -1,6 +1,5 @@
  <img src="https://pbs.twimg.com/media/FRT011vVUAAE0iF?format=jpg&name=4096x4096" alt="Beeple Art" width="100%"/>
 
-
 ## Table of Contents
 
 1. [Project Summary](#1-project-summary)
@@ -19,7 +18,7 @@
 * We'll examine relationships between types of:
     * Art and customers
     * Purchase prices and timestamps
-    * Trends in purchases over the course of the year
+    * Trends in purchases over time
     * Historical Volume 
     * Purchase prices
     * Trends in sales
