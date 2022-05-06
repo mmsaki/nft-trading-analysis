@@ -1,4 +1,4 @@
- <img src="https://pbs.twimg.com/media/FKzfGX8WYAA1T-T?format=jpg&name=large" alt="Beeple Art" width="100%"/>
+ <img src="https://pbs.twimg.com/media/FRT011vVUAAE0iF?format=jpg&name=4096x4096" alt="Beeple Art" width="100%"/>
 
 
 ## Table of Contents
