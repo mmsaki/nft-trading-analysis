@@ -23,7 +23,7 @@
     * Historical Volume 
     * Purchase prices
     * Trends in sales over the recent 1000 transactions
-    * Other transaction data ie. transaction fees paid for all collections
+    * Other transaction data ie. total transaction fees paid for all collections
 
 ## 2. Hypothesis
 * Should you invest in Azuki, BAYC or Crypto Punks? 
