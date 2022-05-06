@@ -87,9 +87,10 @@
 **File:** [Analysis](./project_analysis.ipynb) <br>
 **File:** [Project Presentation](./group_presentation.pdf)
 
-
+![](./exports/group_project_01.png)
 ## 7. Contributors 
 
 - [@mmsaki](https://github.com/mmsaki)
 - [@dockingbay24](https://github.com/dockingbay24)
 - [@angel-estrada7](https://github.com/angel-estrada7)
+
