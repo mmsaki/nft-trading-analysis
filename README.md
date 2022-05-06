@@ -17,10 +17,14 @@
     * Part Two : [*Azuki*](https://www.azuki.com)
     * Part Three : [*Cryptopunks*](http://larvalabs.com/cryptopunks)
 * We'll examine relationships between types of:
+    * Art and customers
+    * Purchase prices and timestamps
+    * Trends in purchases over the course of the year
     * Historical Volume 
     * Purchase prices
     * Trends in sales
-    * Other transaction data ie. total transaction fees paid for all collections
+    * Transaction data ie. transaction fees paid for all collections
+    * Other related questions as the data admits
 
 ## 2. Hypothesis
 * Should you invest in Azuki, BAYC or Crypto Punks? 
@@ -45,6 +49,18 @@
 ## 4. Analysis
 
 * What kind of data we like to work with and the field we're interested in 
+    * Market Caps
+    * Transaction data
+    * NFT art trading sales
+    * Gas Prices prices
+    * Price volatility
+    * Collections
+    * Account Balances
+    * Token IDs
+    * Contract deploments
+    * Global view of NFT Marketplace
+    * Wrapped tokens
+    * Major Exchanges that process NFT transactions
 
 <!---
  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh3.googleusercontent.com%2FOr5DrlLFz9XuY-qAbl-YrkFd0BADhLjwbmWoRDil17X-UAxmSwngrzXiFuJcVb42SDp5eH3dvnflOdsea98jGy1X24dfFgERgcQV&f=1&nofb=1" alt="Beeple Art" width="100%"/>
@@ -102,5 +118,15 @@
 ## 7. Contributors 
 
 - [@mmsaki](https://github.com/mmsaki)
+    * Project Organisation
+    * Document preparations & Analysis
+    * Prepare Powepoint Presentation
+    * README.md
 - [@dockingbay24](https://github.com/dockingbay24)
+    * Data Collection
+    * APIs selections
+    * Merge branching
 - [@angel-estrada7](https://github.com/angel-estrada7)
+    * Genreal Analysis
+    * Assist w/ presentation
+
