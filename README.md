@@ -63,8 +63,6 @@
     ![Daily Volume Azukis](./exports/azuki_daily_volume.png)
     ![Azuki Sales](./exports/azuki_daily_sales.png)
 
-    ![Historical sales Analysis](./exports/png/nft_analysis_pg6.png)
-
     ![Fees Comparison](./exports/fees_paid_comparison.png)
 
     ![Comparing Collections performance](./exports/Volume_sales_recent_1000.png)
