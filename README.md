@@ -47,27 +47,33 @@
 * What kind of data we like to work with and the field we're interested in 
     - [x] Daily volume
     ![Daily volume Analysis](./exports/png/nft_analysis_pg2.png)
-        * Daily Volume Azukis
+
+
+    * Azukis collection analysis
         ![Daily Volume Azukis](./exports/azuki_daily_volume.png)
-        * Daily Volume Cryptopunks
-        ![Daily Volume Punks](./exports/crypotpunks_daily_volume.png)
-        * Daily Volume Bored Apes
+        ![Azuki Sales](./exports/azuki_daily_sales.png)
+
+
+    * Cryptopunks collection analysis
+        ![Cris Punks](./images/cryptopunks_bokeh_plot.png)
+        ![Chris Combined plot](./images/punks_combined_wrapped_analysis.png)
+        ![Chris Cryptopunks Sales Ether](./images/cryptopunks_sales_by_ether.png)
+
+
+
+    * Bored Ape Yatch Club Analysis
         ![Daily Volume Bored Apes](./exports/BAYC_daily_volume.png)
+        ![Ape Sales](./exports/BAYC_daily_sales.png)
+
     - [x] Historical sales recent 1000 transactions
     ![Historical sales Analysis](./exports/png/nft_analysis_pg6.png)
-        * Azukis Sales
-        ![Azuki Sales](./exports/azuki_daily_sales.png)
-        * Cryptopunks Sales
-        ![Punk Sales](./exports/cryptopunks_daily_sales.png)
-        * Bored Apes Sales
-        ![Ape Sales](./exports/BAYC_daily_sales.png)
-    - [x] Avarage fees paid buying NFTs
-    ![Fees Paid Analysis](./exports/png/nft_analysis_pg11.png)
-        * Total fees paid comparison
-        ![Fees Comparison](./exports/combined_fees_comparison.png)
+
+
+    - [x] Total fees paid comparison
+        ![Fees Comparison](./exports/fees_paid_comparison.png)
+
     - [x] Comparing Collections performance
-        * Total sale volume comparison
-        ![Comparing Collections performance](./exports/combined_recent_1000_sales_total.png)
+        ![Comparing Collections performance](./exports/Volume_sales_recent_1000.png)
 
 
 ## 5. Postmoterm
