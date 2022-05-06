@@ -36,7 +36,7 @@
 ## 3. Data Collection & Cleanup
 * How do we collect NFT data?
     - [x] Covalent APIs
-    - [x] Other: Etherscan API
+    - [x] Etherscan API
      ![](./exports/png/nft_analysis.png)
 * Why cleanup data?
     * Prepare data for analysis
