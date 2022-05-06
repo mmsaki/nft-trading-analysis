@@ -32,8 +32,8 @@
 
 ## 3. Data Collection & Cleanup
 * How do we collect NFT data?
-    - [ ] Covalent APIs
-    - [ ] Other: Etherscan API
+    - [x] Covalent APIs
+    - [x] Other: Etherscan API
 * Why cleanup data?
     * Prepare data for analysis
     * Isolate the types of data we are interested in from the rest
@@ -43,22 +43,22 @@
 ## 4. Analysis
 
 * What kind of data we like to work with and the field we're interested in 
-    - [ ] Daily volume
-    - [ ] Historical sales
-    - [ ] Transaction data 
-    - [ ] NFT sales
-    - [ ] Gas fees prices
-    - [ ] Price volatility
-    - [ ] Comparing Collections performance
-    - [ ] Average volume
+    - [x] Daily volume
+    - [x] Historical sales
+    - [x] Transaction data 
+    - [x] NFT sales
+    - [x] Gas fees prices
+    - [x] Price volatility
+    - [x] Comparing Collections performance
+    - [x] Average volume
 
 
 ## 5. Postmoterm
 * Did we find everything we expected to find?
-    - [ ] What are our difficulties 
-    - [ ] How did we deal with them
-    - [ ] Additional questions that came up
-    - [ ] What would we research next if we had more time?
+    - [x] What are our difficulties 
+    - [x] How did we deal with them
+    - [x] Additional questions that came up
+    - [x] What would we research next if we had more time?
 
 ## 6. Discussion
 
