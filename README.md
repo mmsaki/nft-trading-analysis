@@ -44,12 +44,23 @@
 
 * What kind of data we like to work with and the field we're interested in 
     - [x] Daily volume
+        ![Daily Volume Azukis](./exports/azuki_daily_volume.png)
+        ![Daily Volume Punks](./exports/crypotpunks_daily_volume.png)
+        ![Daily Volume Bored Apes](./exports/BAYC_daily_volume.png)
     - [x] Historical sales
+        ![Azuki Sales](./exports/azuki_daily_sales.png)
+        ![Punk Sales](./exports/cryptopunks_daily_sales.png)
+        ![Ape Sales](./exports/BAYC_daily_sales.png)
     - [x] Transaction data 
+        ![]()
     - [x] NFT sales
+        ![]()
     - [x] Gas fees prices
+        ![Fees Comparison](./exports/combined_fees_comparison.png)
     - [x] Price volatility
+        ![]()
     - [x] Comparing Collections performance
+        ![](./exports/combined_recent_1000_sales_total.png)
     - [x] Average volume
 
 
