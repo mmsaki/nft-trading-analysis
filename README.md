@@ -1,17 +1,76 @@
+ <!--
+ <img src="https://media2.giphy.com/media/JTV3ciE3YTDycJXhmq/giphy.gif?cid=ecf05e47e01en4yfdxy8feugp8cfur80fovlpp01u38dssnk&rid=giphy.gif&ct=g" alt="ether" width="100%"/>
+ -->
 
-## Development Branch
+## Table of Contents
 
-Welcome to the `development` branch, we will process all our NFT collections and compare if they outperfromed each other.
+1. [Summary of interests and intent](#summary-of-interests-and-intent)
+2. [Analysis](#analysis)
+3. [Questions?](#questions)
+4. [Sources of Data API](#sources-of-data-api)
+5. [Results](#results)
+6. [Contributors](#contributors)
 
-## Our Collections 
-* Azuki
-* Bore Ape Yatch Club (BAYC)
-* Cryptopunks
+## 1. Project Summary
+* Our project uncovers patterns in NFT trading for three NFT collections.
+    * Azuki
+    * Cryptopunks
+    * Boyed Ape Yatch Club
+* We'll examine relationships between types of:
+    * Historical Volume 
+    * Purchase prices
+    * Trends in sales over the recent 1000 transactions
+    * Other transaction data ie. transaction fees paid for all collections
 
-## Analysis
+## 2. Hypothesis
+* Should you invest in Azuki, BAYC or Crypto Punks? 
+    * What are people paying for NFT in USD value?
+    * How much in fees are being paid per transaction?
+    * Is the value appreciating or declining?
+* How can you tell which collection is performing well?
+    * What is the daily transaction volume after Collection is released?
 
-* The kinds of questions we'll be asking of that data.
-    * Should you invest in Azuki, BAYC or Crypto Punks? 
-        * Floor prices
-    * How can you tell which collection is performing well?
-        * Checking volume sales
+## 3. Data Collection & Cleanup
+* How do we collect NFT data?
+    - [ ] Covalent APIs
+    - [ ] Other: Etherscan API
+* Why cleanup data?
+    * Prepare data for analysis
+    * Isolate the types of data we are interested in from the rest
+    * See what the customer data look like
+    * Evaluate performance
+
+## 4. Analysis
+
+* What kind of data we like to work with and the field we're interested in 
+    - [ ] Daily volume
+    - [ ] Historical sales
+    - [ ] Transaction data 
+    - [ ] NFT sales
+    - [ ] Gas fees prices
+    - [ ] Price volatility
+    - [ ] Comparing Collections performance
+    - [ ] Average volume
+
+
+## 5. Postmoterm
+* Did we find everything we expected to find?
+    - [ ] What are our difficulties 
+    - [ ] How did we deal with them
+    - [ ] Additional questions that came up
+    - [ ] What would we research next if we had more time?
+
+## 6. Discussion
+
+* After we've analyzed our data to our satisfaction, we'll put together a presentation to show off our work, explain our process, and discuss our conclusions.
+* This presentation will be delivered as a slideshow, and it would give our classmates and instructional staff an overview of our work. 
+
+**File:** [Results]() <br>
+**File:** [Presentation]()
+
+
+## 7. Contributors 
+
+- [@mmsaki](https://github.com/mmsaki)
+- [@dockingbay24](https://github.com/dockingbay24)
+- [@angel-estrada7](https://github.com/angel-estrada7)
