@@ -71,7 +71,7 @@
 
 ![ Punks](./images/punks_pr0.png)
 
-- [x] Part Two: Cryptopunks @dockingbay24
+- [x] Part Three: Cryptopunks @dockingbay24
 
     ![Wrapped Cryptopunks](./images/wraped_punks.png)
     ![Cris Punks](./images/cryptopunks_bokeh_plot.png)
