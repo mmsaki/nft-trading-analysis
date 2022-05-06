@@ -19,7 +19,7 @@
 * We'll examine relationships between types of:
     * Historical Volume 
     * Purchase prices
-    * Trends in sales over the recent 1000 transactions
+    * Trends in sales
     * Other transaction data ie. total transaction fees paid for all collections
 
 ## 2. Hypothesis
