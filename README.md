@@ -57,19 +57,12 @@
         ![Punk Sales](./exports/cryptopunks_daily_sales.png)
         * Bored Apes Sales
         ![Ape Sales](./exports/BAYC_daily_sales.png)
-    - [x] Transaction data 
-        ![]()
-    - [x] NFT sales
-        ![]()
     - [x] Gas fees prices
         * Total fees paid comparison
         ![Fees Comparison](./exports/combined_fees_comparison.png)
-    - [x] Price volatility
-        ![]()
     - [x] Comparing Collections performance
         * Total sale volume comparison
         ![](./exports/combined_recent_1000_sales_total.png)
-    - [x] Average volume
 
 
 ## 5. Postmoterm
