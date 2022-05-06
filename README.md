@@ -13,9 +13,9 @@
 
 ## 1. Project Summary
 * Our project uncovers patterns in NFT trading for three NFT collections.
-    * Part One : [Boyed Ape Yatch Club](https://boredapeyachtclub.com/)
-    * Part Two : [Azuki](https://www.azuki.com)
-    * Part Three : [Cryptopunks](http://larvalabs.com/cryptopunks)
+    * Part One : [*Boyed Ape Yatch Club*](https://boredapeyachtclub.com/)
+    * Part Two : [*Azuki*](https://www.azuki.com)
+    * Part Three : [*Cryptopunks*](http://larvalabs.com/cryptopunks)
 * We'll examine relationships between types of:
     * Historical Volume 
     * Purchase prices
