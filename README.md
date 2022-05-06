@@ -86,7 +86,7 @@
 * This presentation will be delivered as a slideshow, and it would give our classmates and instructional staff an overview of our work. 
 
 **File:** [Analysis](./project_analysis.ipynb) <br>
-**File:** [Presentation](./group_presentation.pdf)
+**File:** [Project Presentation](./group_presentation.pdf)
 
 
 ## 7. Contributors 
