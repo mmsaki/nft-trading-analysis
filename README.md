@@ -78,8 +78,8 @@
 * After we've analyzed our data to our satisfaction, we'll put together a presentation to show off our work, explain our process, and discuss our conclusions.
 * This presentation will be delivered as a slideshow, and it would give our classmates and instructional staff an overview of our work. 
 
-**File:** [Results]() <br>
-**File:** [Presentation]()
+**File:** [Analysis](./group_project_01.ipynb) <br>
+**File:** [Presentation](./group_presentation.pdf)
 
 
 ## 7. Contributors 
