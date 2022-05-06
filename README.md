@@ -4,12 +4,13 @@
 
 ## Table of Contents
 
-1. [Summary of interests and intent](#summary-of-interests-and-intent)
-2. [Analysis](#analysis)
-3. [Questions?](#questions)
-4. [Sources of Data API](#sources-of-data-api)
-5. [Results](#results)
-6. [Contributors](#contributors)
+1. [Project Summary](#1-project-summary)
+2. [Hypothesis](#2-hypothesis)
+3. [Data Collection & Cleanup](#3-data-collection--cleanup)
+4. [Analysis](#4-analysis)
+5. [Postmoterm](#5-postmoterm)
+6. [Discussion](#6-discussion)
+7. [Contributors](#7-contributors)
 
 ## 1. Project Summary
 * Our project uncovers patterns in NFT trading for three NFT collections.
