@@ -46,15 +46,18 @@
 
 * What kind of data we like to work with and the field we're interested in 
 
+<!---
  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh3.googleusercontent.com%2FOr5DrlLFz9XuY-qAbl-YrkFd0BADhLjwbmWoRDil17X-UAxmSwngrzXiFuJcVb42SDp5eH3dvnflOdsea98jGy1X24dfFgERgcQV&f=1&nofb=1" alt="Beeple Art" width="100%"/>
-
+-->
 
 - [x] Part One: Bored Ape Yatch Club @angel-estrada7
 
     ![Daily Volume Bored Apes](./exports/BAYC_daily_volume.png)
     ![Ape Sales](./exports/BAYC_daily_sales.png)
 
+<!---
     ![](./images/azuki_girl44.png)
+-->
 
 - [x] Part Two : Azuki @mmsaki
 
@@ -67,7 +70,9 @@
 
     ![Comparing Collections performance](./exports/Volume_sales_recent_1000.png)
 
+<!--- 
 ![ Punks](./images/punks_pr0.png)
+-->
 
 - [x] Part Three: Cryptopunks @dockingbay24
 
