@@ -61,21 +61,18 @@
     ![Chris Combined plot](./images/punks_combined_wrapped_analysis.png)
     ![Chris Cryptopunks Sales Ether](./images/cryptopunks_sales_by_ether.png)
 
-![](./images/bored_apes.jpeg)
+ <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh3.googleusercontent.com%2FOr5DrlLFz9XuY-qAbl-YrkFd0BADhLjwbmWoRDil17X-UAxmSwngrzXiFuJcVb42SDp5eH3dvnflOdsea98jGy1X24dfFgERgcQV&f=1&nofb=1" alt="Beeple Art" width="100%"/>
+
 
 - [x] Part Three: Bored Ape Yatch Club
 
     ![Daily Volume Bored Apes](./exports/BAYC_daily_volume.png)
     ![Ape Sales](./exports/BAYC_daily_sales.png)
 
-- [x] Historical sales recent 1000 transactions
     ![Historical sales Analysis](./exports/png/nft_analysis_pg6.png)
 
-
-- [x] Total fees paid comparison
     ![Fees Comparison](./exports/fees_paid_comparison.png)
 
-- [x] Comparing Collections performance
     ![Comparing Collections performance](./exports/Volume_sales_recent_1000.png)
 
 
