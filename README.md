@@ -37,7 +37,7 @@
     - [x] Covalent APIs
     - [x] Etherscan API
     - [x] Other Dependancies ie. Plotly Express
-     ![APIs and Imports](./exports/png/nft_analysis.png)
+    ![APIs and Imports](./exports/png/nft_analysis.png)
 * Why cleanup data?
     * Prepare data for analysis
     * Isolate the types of data we are interested in from the rest
