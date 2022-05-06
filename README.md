@@ -57,7 +57,7 @@
         ![Punk Sales](./exports/cryptopunks_daily_sales.png)
         * Bored Apes Sales
         ![Ape Sales](./exports/BAYC_daily_sales.png)
-    - [x] Gas fees prices
+    - [x] Avarage fees paid buying NFTs
         * Total fees paid comparison
         ![Fees Comparison](./exports/combined_fees_comparison.png)
     - [x] Comparing Collections performance
