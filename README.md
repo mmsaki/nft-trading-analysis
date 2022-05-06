@@ -10,7 +10,7 @@
 6. [Discussion](#6-discussion)
 7. [Contributors](#7-contributors)
 
-## 1. Project Summary
+## 🎒 1. Project Summary
 * Our project uncovers patterns in NFT trading for three NFT collections.
     * Part One : [*Boyed Ape Yatch Club*](https://boredapeyachtclub.com/)
     * Part Two : [*Azuki*](https://www.azuki.com)
@@ -25,7 +25,7 @@
     * Transaction data ie. transaction fees paid for all collections
     * Other related questions as the data admits
 
-## 2. Hypothesis
+## 🎩 2. Hypothesis
 * Should you invest in Azuki, BAYC or Crypto Punks? 
     * What are people paying for NFT in USD value?
     * How much in fees are being paid per transaction?
@@ -33,7 +33,7 @@
 * How can you tell which collection is performing well?
     * What is the daily transaction volume after Collection is released?
 
-## 3. Data Collection & Cleanup
+## 🧤 3. Data Collection & Cleanup
 * How do we collect NFT data?
     - [x] Covalent APIs
     - [x] Etherscan API
@@ -45,7 +45,7 @@
     * See what the customer data look like
     * Evaluate performance
 
-## 4. Analysis
+## 🦺 4. Analysis
 
 * What kind of data we like to work with and the field we're interested in 
     * Market Caps
@@ -98,7 +98,7 @@
 
 
 
-## 5. Postmoterm
+## ⛑️ 5. Postmoterm
 * Did we find everything we expected to find?
     - [x] What are our difficulties
         * Concating data from multiple data sources
@@ -117,7 +117,7 @@
         * Burned tokens vs Active tokens
         * How can we separate authentic sales from suspicious NFT transactions?
     
-## 6. Discussion
+## 🎤 6. Discussion
 
 * After we've analyzed our data to our satisfaction, we'll put together a presentation to show off our work, explain our process, and discuss our conclusions.
 * This presentation will be delivered as a slideshow, and it would give our classmates and instructional staff an overview of our work. 
