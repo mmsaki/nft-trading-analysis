@@ -11,8 +11,6 @@
 6. [Discussion](#6-discussion)
 7. [Contributors](#7-contributors)
 
-**Important:** Out sales data will only analyze the most recent 1,000 transactions limit and not all hostorical transactions. 
-
 ## 1. Project Summary
 * Our project uncovers patterns in NFT trading for three NFT collections.
     * Part One : [Boyed Ape Yatch Club](https://boredapeyachtclub.com/)
