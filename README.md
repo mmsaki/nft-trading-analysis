@@ -37,7 +37,8 @@
 * How do we collect NFT data?
     - [x] Covalent APIs
     - [x] Etherscan API
-     ![](./exports/png/nft_analysis.png)
+    - [x] Other Dependancies ie. Plotly Express
+     ![APIs and Imports](./exports/png/nft_analysis.png)
 * Why cleanup data?
     * Prepare data for analysis
     * Isolate the types of data we are interested in from the rest
@@ -84,7 +85,7 @@
 * After we've analyzed our data to our satisfaction, we'll put together a presentation to show off our work, explain our process, and discuss our conclusions.
 * This presentation will be delivered as a slideshow, and it would give our classmates and instructional staff an overview of our work. 
 
-**File:** [Analysis](./group_project_01.ipynb) <br>
+**File:** [Analysis](./project_analysis.ipynb) <br>
 **File:** [Presentation](./group_presentation.pdf)
 
 
