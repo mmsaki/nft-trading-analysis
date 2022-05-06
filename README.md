@@ -1,4 +1,4 @@
- <img src="https://pbs.twimg.com/media/FEH11zkVIAA5hok?format=jpg&name=4096x4096" alt="Beeple Art" width="100%"/>
+ <img src="https://pbs.twimg.com/media/FKzfGX8WYAA1T-T?format=jpg&name=large" alt="Beeple Art" width="100%"/>
 
 
 ## Table of Contents
@@ -15,9 +15,9 @@
 
 ## 1. Project Summary
 * Our project uncovers patterns in NFT trading for three NFT collections.
-    * [Azuki](https://www.azuki.com)
-    * [Cryptopunks](http://larvalabs.com/cryptopunks)
-    * [Boyed Ape Yatch Club](https://boredapeyachtclub.com/)
+    * Part One : [Boyed Ape Yatch Club](https://boredapeyachtclub.com/)
+    * Part Two : [Azuki](https://www.azuki.com)
+    * Part Three : [Cryptopunks](http://larvalabs.com/cryptopunks)
 * We'll examine relationships between types of:
     * Historical Volume 
     * Purchase prices
@@ -87,7 +87,7 @@
 **File:** [Analysis](./project_analysis.ipynb) <br>
 **File:** [Project Presentation](./group_presentation.pdf)
 
-![](./exports/group_project_01.png)
+![](./project_analysis_2.0.png)
 ## 7. Contributors 
 
 - [@mmsaki](https://github.com/mmsaki)
