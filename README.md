@@ -83,9 +83,9 @@
 * This presentation will be delivered as a slideshow, and it would give our classmates and instructional staff an overview of our work. 
 
 **File:** [Analysis](./project_analysis_2.0.ipynb) <br>
-**File:** [Project Presentation](./group_presentation.pdf)
+**File:** [Project Presentation](./exports/pdf/group_presentation.pdf)
 
-![](./project_analysis_2.0.png)
+![](./exports/project_analysis_2.0.png)
 ## 7. Contributors 
 
 - [@mmsaki](https://github.com/mmsaki)
