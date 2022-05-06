@@ -1,6 +1,5 @@
- <!--
- <img src="https://media2.giphy.com/media/JTV3ciE3YTDycJXhmq/giphy.gif?cid=ecf05e47e01en4yfdxy8feugp8cfur80fovlpp01u38dssnk&rid=giphy.gif&ct=g" alt="ether" width="100%"/>
- -->
+ <img src="https://pbs.twimg.com/media/FEH11zkVIAA5hok?format=jpg&name=4096x4096" alt="Beeple Art" width="100%"/>
+
 
 ## Table of Contents
 
