@@ -129,9 +129,9 @@
 ## 7. Contributors 
 
 - [@mmsaki](https://github.com/mmsaki)
-    * Project Organisation
-    * Document preparations & Analysis
-    * Prepare Powepoint Presentation
+    * Organisation
+    * Analysis
+    * Powepoint Presentation
     * README.md
 - [@dockingbay24](https://github.com/dockingbay24)
     * Data Collection
