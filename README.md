@@ -14,9 +14,9 @@
 
 ## 1. Project Summary
 * Our project uncovers patterns in NFT trading for three NFT collections.
-    * Azuki
-    * Cryptopunks
-    * Boyed Ape Yatch Club
+    * [Azuki](https://www.azuki.com)
+    * [Cryptopunks](http://larvalabs.com/cryptopunks)
+    * [Boyed Ape Yatch Club](https://boredapeyachtclub.com/)
 * We'll examine relationships between types of:
     * Historical Volume 
     * Purchase prices
@@ -35,6 +35,7 @@
 * How do we collect NFT data?
     - [x] Covalent APIs
     - [x] Other: Etherscan API
+     ![](./exports/png/nft_analysis.png)
 * Why cleanup data?
     * Prepare data for analysis
     * Isolate the types of data we are interested in from the rest
@@ -45,6 +46,7 @@
 
 * What kind of data we like to work with and the field we're interested in 
     - [x] Daily volume
+    ![Daily volume Analysis](./exports/png/nft_analysis_pg2.png)
         * Daily Volume Azukis
         ![Daily Volume Azukis](./exports/azuki_daily_volume.png)
         * Daily Volume Cryptopunks
@@ -52,6 +54,7 @@
         * Daily Volume Bored Apes
         ![Daily Volume Bored Apes](./exports/BAYC_daily_volume.png)
     - [x] Historical sales recent 1000 transactions
+    ![Historical sales Analysis](./exports/png/nft_analysis_pg6.png)
         * Azukis Sales
         ![Azuki Sales](./exports/azuki_daily_sales.png)
         * Cryptopunks Sales
@@ -59,11 +62,12 @@
         * Bored Apes Sales
         ![Ape Sales](./exports/BAYC_daily_sales.png)
     - [x] Avarage fees paid buying NFTs
+    ![Fees Paid Analysis](./exports/png/nft_analysis_pg11.png)
         * Total fees paid comparison
         ![Fees Comparison](./exports/combined_fees_comparison.png)
     - [x] Comparing Collections performance
         * Total sale volume comparison
-        ![](./exports/combined_recent_1000_sales_total.png)
+        ![Comparing Collections performance](./exports/combined_recent_1000_sales_total.png)
 
 
 ## 5. Postmoterm
