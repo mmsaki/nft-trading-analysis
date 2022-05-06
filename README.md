@@ -55,7 +55,8 @@
     * Price volatility
     * Collections
     * Token IDs
-    * Contract deploments
+    * Contract addresses
+    * NFT Owners
     * Global view of NFT Marketplace
     * Wrapped tokens
     * Major Exchanges that process NFT transactions
