@@ -45,35 +45,38 @@
 ## 4. Analysis
 
 * What kind of data we like to work with and the field we're interested in 
-    - [x] Daily volume
+
+    ![](./images/azuki_girl44.png)
+- [x] Part One: Azuki
+
     ![Daily volume Analysis](./exports/png/nft_analysis_pg2.png)
 
+    ![Daily Volume Azukis](./exports/azuki_daily_volume.png)
+    ![Azuki Sales](./exports/azuki_daily_sales.png)
 
-    * Azukis collection analysis
-        ![Daily Volume Azukis](./exports/azuki_daily_volume.png)
-        ![Azuki Sales](./exports/azuki_daily_sales.png)
+    ![ Punks](./images/punks_pr0.png)
+- [x] Part Two: Cryptopunks 
 
+    ![Cris Punks](./images/cryptopunks_bokeh_plot.png)
+    ![Chris Combined plot](./images/punks_combined_wrapped_analysis.png)
+    ![Chris Cryptopunks Sales Ether](./images/cryptopunks_sales_by_ether.png)
 
-    * Cryptopunks collection analysis
-        ![Cris Punks](./images/cryptopunks_bokeh_plot.png)
-        ![Chris Combined plot](./images/punks_combined_wrapped_analysis.png)
-        ![Chris Cryptopunks Sales Ether](./images/cryptopunks_sales_by_ether.png)
+![](./images/bored_apes.jpeg)
 
+- [x] Part Three: Bored Ape Yatch Club
 
+    ![Daily Volume Bored Apes](./exports/BAYC_daily_volume.png)
+    ![Ape Sales](./exports/BAYC_daily_sales.png)
 
-    * Bored Ape Yatch Club Analysis
-        ![Daily Volume Bored Apes](./exports/BAYC_daily_volume.png)
-        ![Ape Sales](./exports/BAYC_daily_sales.png)
-
-    - [x] Historical sales recent 1000 transactions
+- [x] Historical sales recent 1000 transactions
     ![Historical sales Analysis](./exports/png/nft_analysis_pg6.png)
 
 
-    - [x] Total fees paid comparison
-        ![Fees Comparison](./exports/fees_paid_comparison.png)
+- [x] Total fees paid comparison
+    ![Fees Comparison](./exports/fees_paid_comparison.png)
 
-    - [x] Comparing Collections performance
-        ![Comparing Collections performance](./exports/Volume_sales_recent_1000.png)
+- [x] Comparing Collections performance
+    ![Comparing Collections performance](./exports/Volume_sales_recent_1000.png)
 
 
 ## 5. Postmoterm
