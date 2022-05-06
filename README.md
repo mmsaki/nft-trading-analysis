@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-1. [Project Summary](#1-project-summary)
-2. [Hypothesis](#2-hypothesis)
-3. [Data Collection & Cleanup](#3-data-collection--cleanup)
-4. [Analysis](#4-analysis)
-5. [Postmoterm](#5-postmoterm)
-6. [Discussion](#6-discussion)
+1. [Project Summary](#-1-project-summary)
+2. [Hypothesis](#-2-hypothesis)
+3. [Data Collection & Cleanup](#-3-data-collection--cleanup)
+4. [Analysis](#-4-analysis)
+5. [Postmoterm](#%EF%B8%8F-5-postmoterm)
+6. [Discussion](#-6-discussion)
 7. [Contributors](#7-contributors)
 
 ## 🎒 1. Project Summary
