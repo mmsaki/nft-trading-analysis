@@ -100,11 +100,23 @@
 
 ## 5. Postmoterm
 * Did we find everything we expected to find?
-    - [x] What are our difficulties 
+    - [x] What are our difficulties
+        * Concating data from multiple data sources
+        * Data cleanups
+        * Choosing data to plot
+        * Selecting appropriate plots to display data
+        * Using unfarmiliar libraries
     - [x] How did we deal with them
-    - [x] Additional questions that came up
-    - [x] What would we research next if we had more time?
-
+        * Googling
+        * Stackoverflow
+        * Reading official documentation
+        * Consulting instructor
+        * Asking tutors
+    - [x] Additional questions that came up  that we would research next if we had more time
+        * Global NFT market sales comparison
+        * Burned tokens vs Active tokens
+        * How can we separate authentic sales from suspicious NFT transactions?
+    
 ## 6. Discussion
 
 * After we've analyzed our data to our satisfaction, we'll put together a presentation to show off our work, explain our process, and discuss our conclusions.
