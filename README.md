@@ -37,6 +37,7 @@
 * How do we collect NFT data?
     - [x] Covalent APIs
     - [x] Etherscan API
+    - [X] CSV data imports
     - [x] Other Dependancies ie. Plotly Express
     ![APIs and Imports](./exports/png/nft_analysis.png)
 * Why cleanup data?
@@ -99,27 +100,40 @@
 
 ## ⛑️ 5. Postmoterm
 * Did we find everything we expected to find?
-    - [x] What are our difficulties
+    - [x] Difficulties
+        * Setting proper scope on NFTs there is a lot of data that is available
         * Concating data from multiple data sources
-        * Data cleanups
-        * Choosing data to plot
-        * Selecting appropriate plots to display data
+        * Data cleaning
+        * Choosing which data to compare and study
+        * Selecting plots to display data
         * Using unfarmiliar libraries
+        * Working in git as a group
+        * Coordinating schedules with people remote
     - [x] How did we deal with them
         * Googling
         * Stackoverflow
         * Reading official documentation
         * Consulting instructor
         * Asking tutors
-    - [x] Additional questions that came up  that we would research next if we had more time
+    - [x] Additional questions that came up that we would research next if we had more time
         * Global NFT market sales comparison
         * Burned tokens vs Active tokens
+        * Correlate NFTs that were around pre 2020 to major crypto pricing trends
         * How can we separate authentic sales from suspicious NFT transactions?
+        * Why would I buy an NFT vs just create my own?
     
 ## 🎤 6. Discussion
 
 * After we've analyzed our data to our satisfaction, we'll put together a presentation to show off our work, explain our process, and discuss our conclusions.
 * This presentation will be delivered as a slideshow, and it would give our classmates and instructional staff an overview of our work. 
+* Discussion Summary
+* CryptoPunks - would not recommend investment at this time unless you were a seasoned NFT collector, looking at long term royalty market in metaverse or were passionate about a particular punk.
+* I would recommend trying to get in on ground for new NFT releases and have a plan why you are getting into market
+* passion for NFTs
+* flip for profit
+* creator
+* community
+* CyrptoPunks activity and pricing stayed pretty level from inception 2017 through mid-2020 then the market exploded in parallel with Crypto currencies  
 
 **File:** [Analysis](./project_analysis_2.0.ipynb) <br>
 **File:** [Project Presentation](./exports/pdf/group_presentation.pdf)
