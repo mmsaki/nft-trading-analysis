@@ -76,7 +76,7 @@
 
 - [x] Part Two : Azuki @mmsaki
 
-    ![Daily Volume Azukis](./exports/azuki_daily_volume.png)
+    ![Daily Volume Azukis](./exports/azuki_daily_sales.png)
     ![Azuki Sales](./exports/azuki_daily_sales.png)
 
     ![Fees Comparison](./exports/fees_paid_comparison.png)
