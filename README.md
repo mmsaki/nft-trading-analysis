@@ -6,7 +6,7 @@
 2. [Hypothesis](#-2-hypothesis)
 3. [Data Collection & Cleanup](#-3-data-collection--cleanup)
 4. [Analysis](#-4-analysis)
-5. [Postmoterm](#%EF%B8%8F-5-postmoterm)
+5. [Postmortem](#%EF%B8%8F-5-postmortem)
 6. [Discussion](#-6-discussion)
 7. [Contributors](#7-contributors)
 
@@ -66,7 +66,7 @@
  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh3.googleusercontent.com%2FOr5DrlLFz9XuY-qAbl-YrkFd0BADhLjwbmWoRDil17X-UAxmSwngrzXiFuJcVb42SDp5eH3dvnflOdsea98jGy1X24dfFgERgcQV&f=1&nofb=1" alt="Beeple Art" width="100%"/>
 -->
 
-- [x] Part One: Bored Ape Yatch Club @angel-estrada7
+- [x] Part One: Bored Ape Yatch Club
 
     ![Daily Volume Bored Apes](./exports/BAYC_daily_volume.png)
     ![Ape Sales](./exports/BAYC_daily_sales.png)
@@ -75,7 +75,7 @@
     ![](./images/azuki_girl44.png)
 -->
 
-- [x] Part Two : Azuki @mmsaki
+- [x] Part Two : Azuki
 
     ![Daily Volume Azukis](./exports/azuki_daily_volume.png)
 
@@ -89,7 +89,7 @@
 ![ Punks](./images/punks_pr0.png)
 -->
 
-- [x] Part Three: Cryptopunks @dockingbay24
+- [x] Part Three: Cryptopunks
 
     ![Wrapped Cryptopunks](./images/wraped_punks.png)
     ![Cris Punks](./images/cryptopunks_bokeh_plot.png)
@@ -98,7 +98,7 @@
 
 
 
-## ⛑️ 5. Postmoterm
+## ⛑️ 5. Postmortem
 * Did we find everything we expected to find?
     - [x] Difficulties
         * Setting proper scope on NFTs there is a lot of data that is available
