@@ -76,8 +76,6 @@
 
 - [x] Part Two : Azuki @mmsaki
 
-    ![Daily volume Analysis](./exports/png/nft_analysis_pg2.png)
-
     ![Daily Volume Azukis](./exports/azuki_daily_volume.png)
     ![Azuki Sales](./exports/azuki_daily_sales.png)
 
