@@ -126,14 +126,17 @@
 
 * After we've analyzed our data to our satisfaction, we'll put together a presentation to show off our work, explain our process, and discuss our conclusions.
 * This presentation will be delivered as a slideshow, and it would give our classmates and instructional staff an overview of our work. 
-* Discussion Summary
-* CryptoPunks - would not recommend investment at this time unless you were a seasoned NFT collector, looking at long term royalty market in metaverse or were passionate about a particular punk.
-* I would recommend trying to get in on ground for new NFT releases and have a plan why you are getting into market
-* passion for NFTs
-* flip for profit
-* creator
-* community
-* CyrptoPunks activity and pricing stayed pretty level from inception 2017 through mid-2020 then the market exploded in parallel with Crypto currencies  
+
+## Summary
+* CryptoPunks, Azuki & BAYC
+    - Would not recommend investment at this time unless you were a seasoned NFT collector, looking at long term royalty market in metaverse or were passionate about a particular punk.
+    * I would recommend trying to get in on ground for new NFT releases and have a plan why you are getting into market. 
+    * Possibly reasons to invest:
+        * Passion for NFTs
+        * Flip for profit
+        * Creator
+        * Community love
+    * CyrptoPunks activity and pricing stayed pretty level from inception 2017 through mid-2020 then the market exploded in parallel with adoption of Crypto currencies.
 
 **File:** [Analysis](./project_analysis_2.0.ipynb) <br>
 **File:** [Project Presentation](./exports/pdf/group_presentation.pdf)
