@@ -149,11 +149,14 @@
     * Analysis
     * Powepoint Presentation
     * README.md
+    * Azukis
 - [@dockingbay24](https://github.com/dockingbay24)
     * Data Collection
     * APIs selections
     * Merge branching
+    * Cryptopunks
 - [@angel-estrada7](https://github.com/angel-estrada7)
     * Genreal Analysis
     * Assist w/ presentation
+    * Bored Ape Yatch Club
 
