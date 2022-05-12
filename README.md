@@ -43,7 +43,7 @@
 * Why cleanup data?
     * Prepare data for analysis
     * Isolate the types of data we are interested in from the rest
-    * See what the customer data look like
+    * See what the customer data looks like
     * Evaluate performance
 
 ## 🦺 4. Analysis
