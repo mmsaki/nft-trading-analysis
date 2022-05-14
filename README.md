@@ -1,5 +1,5 @@
- <img src="https://pbs.twimg.com/media/FRT011vVUAAE0iF?format=jpg&name=4096x4096" alt="Beeple Art" width="100%"/>
-
+ <!-- <img src="https://pbs.twimg.com/media/FRT011vVUAAE0iF?format=jpg&name=4096x4096" alt="Beeple Art" width="100%"/>
+-->
 ## Table of Contents
 
 1. [Project Summary](#-1-project-summary)
