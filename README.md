@@ -153,10 +153,11 @@
 - [@dockingbay24](https://github.com/dockingbay24)
     * Data Collection
     * APIs selections
-    * Merge branching
+    * Reviewing Project
+    * Suggesting Changes
     * Cryptopunks
 - [@angel-estrada7](https://github.com/angel-estrada7)
-    * Genreal Analysis
+    * General Analysis
     * Assist w/ presentation
     * Bored Ape Yatch Club
 
