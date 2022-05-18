@@ -146,13 +146,13 @@
 
 - [@mmsaki](https://github.com/mmsaki)
     * Organisation
-    * Analysis
+    * Data Analysis
     * Powepoint Presentation
     * README.md
     * Azukis
 - [@dockingbay24](https://github.com/dockingbay24)
-    * Data Collection
-    * APIs selections
+    * Data Analysis
+    * APIs selection
     * Reviewing Project
     * Suggesting Changes
     * Cryptopunks
