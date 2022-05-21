@@ -139,7 +139,7 @@
     * CyrptoPunks activity and pricing stayed pretty level from inception 2017 through mid-2020 then the market exploded in parallel with adoption of Crypto currencies.
 
 **File:** [Analysis](./project_analysis_2.0.ipynb) <br>
-**File:** [Project Presentation](./exports/pdf/group_presentation.pdf)
+**File:** [Project Presentation](./group_presentation.pdf)
 
 ![](./exports/project_analysis_2.0.png)
 ## 7. Contributors 
